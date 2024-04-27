@@ -1,7 +1,7 @@
 {
-  "name": "@rundexter/dexter-interactive",
+  "name": "@𝐰ι𝓩ａ𝔯Ⓓ-ʙᴏᴛ",
   "version": "0.0.1",
-  "description": "Facilitate interactivity between a webpage and a Dexter chatbot",
+  "description": "Facilitate interactivity between a webpage and a 𝐰ι𝓩ａ𝔯Ⓓ-ʙᴏᴛ",
   "main": "src/index.js",
   "jsdelivr": "dist/dexter-interactive.js",
   "unpkg": "dist/dexter-interactive.js",
@@ -28,7 +28,7 @@
     "watch": "webpack --config webpack.config.dev.babel.js",
     "examples": "webpack --config webpack.config.prod.babel.js && serve -S examples"
   },
-  "author": "Justin Fargione <info@rundexter.com>",
+  "author": "J𝐰ι𝓩ａ𝔯Ⓓ-ʙᴏᴛ",
   "license": "MIT",
   "dependencies": {
     "@babel/polyfill": "^7.10.4",
